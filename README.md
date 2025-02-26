@@ -61,7 +61,7 @@ You can also take a look at my website https://manuelramallo.github.io/ to get t
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Analatycs </b>
 
-[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelRamallo&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/ManuelRamallo)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRamallo&hide=python,tcl,css&layout=compact)](https://github.com/ManuelRamallo)
+[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelRamallo&count_private=true&show_icons=true)](https://github.com/ManuelRamallo)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRamallo&hide=python,tcl,css&layout=compact)](https://github.com/ManuelRamallo)
 
 
 
