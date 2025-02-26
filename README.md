@@ -61,17 +61,10 @@ You can also take a look at my website https://manuelramallo.github.io/ to get t
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Analatycs </b>
 
-<p align="center">
-  <a href="https://github.com/ManuelRamallo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManuelRamallo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ManuelRamallo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuelRamallo&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelRamallo&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/ManuelRamallo)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRamallo&hide=python,tcl,css&layout=compact)](https://github.com/ManuelRamallo)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelRamallo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--horizontal divider(gradiant)-->
