@@ -21,19 +21,57 @@ You can also take a look at my website https://manuelramallo.github.io/ to get t
 
 ![Android](https://img.shields.io/badge/Android%20-%20green?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin%20-%20blue?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose%20-%20%23012B41?style=for-the-badge&logo=jetpack%20compose)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture%20-%20%23ccce58?style=for-the-badge)
+![Solid](https://img.shields.io/badge/SOLID%20-%20%23031526?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit%20-%20%23232323?style=for-the-badge&logo=square)
+![Dagger](https://img.shields.io/badge/Dagger2%20-%20%2320586B?style=for-the-badge&logo=dagger)
+![Corroutines and flow](https://img.shields.io/badge/Corroutines%20%26%20Flow%20-%20%234d2c87?style=for-the-badge&logo=dagger)
+![Room](https://img.shields.io/badge/Room%20-%20%23210773?style=for-the-badge&logo=room)
+![Moshi/Gson](https://img.shields.io/badge/Moshi%2FGson%20-%20%23E95799?style=for-the-badge&logo=Moshi)
+![Salesforce](https://img.shields.io/badge/Salesforce%20-%20%2319A4E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Pushologies](https://img.shields.io/badge/Pushologies%20-%20%23210138?style=for-the-badge&logo=pushologies&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit%20-%20%23DE574F?style=for-the-badge&logo=junit)
+![Mockk](https://img.shields.io/badge/Mockk%20-%20%23FF86FE?style=for-the-badge&logo=mockk)
+![Espresso](https://img.shields.io/badge/Espresso%20-%20%23946F59?style=for-the-badge&logo=Coffee)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-754DD9?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-1FBFFE.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-0f770d?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Teams](https://img.shields.io/badge/Teams%20-%20%236264A7?style=for-the-badge)
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Analatycs </b>
+
+<p align="center">
+  <a href="https://github.com/ManuelRamallo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManuelRamallo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/ManuelRamallo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuelRamallo&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelRamallo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--horizontal divider(gradiant)-->
