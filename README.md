@@ -63,12 +63,12 @@ You can also take a look at my website https://manuelramallo.github.io/ to get t
 
 [![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelRamallo&count_private=true&show_icons=true)](https://github.com/ManuelRamallo)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRamallo&hide=python,tcl,css&layout=compact)](https://github.com/ManuelRamallo)
 
+<!--Trophies-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ManuelRamallo&rank=-?)](https://github.com/ManuelRamallo)
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!--horizontal divider(gradiant)-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-  
-<!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" /> -->
