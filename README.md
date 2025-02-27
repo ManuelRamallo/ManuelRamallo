@@ -12,7 +12,8 @@ I’ve had the opportunity to lead projects and teams, and one of my main goals 
 
 In this repository, you’ll find some of my projects and contributions to the open-source community. I’m always looking to learn new things and collaborate on projects that help me grow as a developer.
 
-You can also take a look at my website https://manuelramallo.github.io/ to get to know me better and see my projects.
+You can also take a look at my website <a href="https://manuelramallo.github.io/">![My Website](https://img.shields.io/badge/Manuel%20Ramallo%20Website%20-%20%23095452?style=for-the-badge&link=https%3A%2F%2Fmanuelramallo.github.io)</a>
+ to get to know me better and see my projects.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -67,7 +68,7 @@ You can also take a look at my website https://manuelramallo.github.io/ to get t
 [![trophy](https://github-profile-trophy.vercel.app/?username=ManuelRamallo&rank=-?&margin-w=15)](https://github.com/ManuelRamallo)
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
 <!--horizontal divider(gradiant)-->
