@@ -27,11 +27,18 @@ You can also take a look at my website and LinkedIn to get to know me better and
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose%20-%20%23012B41?style=for-the-badge&logo=jetpack%20compose)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture%20-%20%23ccce58?style=for-the-badge)
 ![Solid](https://img.shields.io/badge/SOLID%20-%20%23031526?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM%20-%20%23ff7c1c?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI%20-%20%23f85a5a?style=for-the-badge)
 ![Retrofit](https://img.shields.io/badge/Retrofit%20-%20%23232323?style=for-the-badge&logo=square)
-![Dagger](https://img.shields.io/badge/Dagger2%20-%20%2320586B?style=for-the-badge&logo=dagger)
+![Ktor](https://img.shields.io/badge/ktor%20-%20%23FB9EEE?style=for-the-badge&logo=ktor&logoColor=%238554FC)
+![Dagger](https://img.shields.io/badge/Dagger%20Hilt%20-%20%2320586B?style=for-the-badge&logo=dagger)
+![Koin](https://img.shields.io/badge/Koin%20-%20%23FAB333?style=for-the-badge)
 ![Corroutines and flow](https://img.shields.io/badge/Corroutines%20%26%20Flow%20-%20%234d2c87?style=for-the-badge&logo=dagger)
 ![Room](https://img.shields.io/badge/Room%20-%20%23210773?style=for-the-badge&logo=room)
 ![Moshi/Gson](https://img.shields.io/badge/Moshi%2FGson%20-%20%23E95799?style=for-the-badge&logo=Moshi)
+![KotlinX Serialization](https://img.shields.io/badge/KotlinX%20Serialization%20-%20%236f6b55?style=for-the-badge)
+![Encyrpt/Decrypt](https://img.shields.io/badge/Encrypt%2FDecrypt%20-%20%235d8807?style=for-the-badge&labelColor=%23000000)
+![Material 3](https://img.shields.io/badge/Material%203%20-%20%2301649B?style=for-the-badge&labelColor=%23000000)
 ![Salesforce](https://img.shields.io/badge/Salesforce%20-%20%2319A4E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Pushologies](https://img.shields.io/badge/Pushologies%20-%20%23210138?style=for-the-badge&logo=pushologies&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit%20-%20%23DE574F?style=for-the-badge&logo=junit)
@@ -41,7 +48,6 @@ You can also take a look at my website and LinkedIn to get to know me better and
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-1FBFFE.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
@@ -53,6 +59,8 @@ You can also take a look at my website and LinkedIn to get to know me better and
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Scrum](https://img.shields.io/badge/SCRUM%20-%20%2338a8c6?style=for-the-badge&logo=material&labelColor=%23000000)
+![Kanban](https://img.shields.io/badge/KANBAN%20-%20%23168faf?style=for-the-badge&logo=material&labelColor=%23000000)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
