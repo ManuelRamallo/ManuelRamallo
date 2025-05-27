@@ -1,5 +1,5 @@
 <!-- Greetings and name -->
-## <h1 align="left"> <img src="https://github.com/ManuelRamallo/ManuelRamallo/blob/main/assets/Logo%20Manuel%20Ramallo%20No%20BG.png" width="60"> Hi , I'm Manuel Ramallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## <h1 align="left"> <img src="https://github.com/ManuelRamallo/ManuelRamallo/blob/main/assets/Logo%20Manuel%20Ramallo%20No%20BG.png" width="60"> Hi, I'm Manuel Ramallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Banner -->
 <img src="https://github.com/ManuelRamallo/ManuelRamallo/blob/main/assets/Big%20Banner%20Manuel%20Ramallo.png" alt="Banner Manuel Ramallo" style="width: 100%;" />
